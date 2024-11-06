@@ -5,34 +5,27 @@ we proposed a new paradigm in deep learning, High-Dimensional Projection Selecti
 ## Performance on NLOS datasets
 ### NLOS-MNIST
 <div align=center>
-  < img src=https://github.com/CVIR-Lab/HDPS/tree/main/images/web_mnist width="40%" />
+  < img src=https://github.com/CVIR-Lab/HDPS/tree/main/images/web_mnist.pdf width="40%" />
   <br>
   <strong>Fig.1.</strong>
 </div>
 
 ### NLOS-passive
 <div align=center>
-  < img src=https://github.com/CVIR-Lab/HDPS/tree/main/images/web_gray width="40%" />
+  < img src=https://github.com/CVIR-Lab/HDPS/tree/main/images/web_gray.pdf width="40%" />
   <br>
   <strong>Fig.2.</strong>
     <em>The figure shows the performance on NLOS scene with reconstructing model-face in gray image.</em>
 </div>
 <div align=center>
-  < img src=https://github.com/CVIR-Lab/HDPS/tree/main/images/web_rgb width="40%" />
+  < img src=https://github.com/CVIR-Lab/HDPS/tree/main/images/web_rgb.pdf width="40%" />
   <br>
   <strong>Fig.2.</strong>
     <em>The figure shows the performance on NLOS scene with reconstructing model-face in RGB image.</em>
 </div>
 
 ## Performance on Low Light Image Enhancement
-### LOLv1
-### LOLv2-realworld
-### LOLv2-synthetic
-### sdsd-indoor
-### sdsd-outdoor
-### smid
-### sid
-### FiveK
+
 ## Image Segmentation
 
 We reorganized the dataset page, please see the new official dataset  [**NLOS**](https://github.com/CVIR-Lab/NLOS) of HDPS for detail.
