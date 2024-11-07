@@ -25,5 +25,6 @@ Here we present some video-result on sdsd datasets.
 <img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdout_low_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdout_gt_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdout_hdps_output.gif" width="300" height="150">
 </div>
 
+The video on the left depicts the original low-light scene, the middle video shows the enhanced results achieved by HDPS, and the rightmost video serves as the ground truth.
 
   We reorganized the dataset page, please see the new official dataset  [**NLOS**](https://github.com/CVIR-Lab/NLOS) of HDPS for detail.
