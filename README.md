@@ -17,7 +17,7 @@ The figure shows the performance on NLOS scene with reconstructing model-face in
 Here we present some video-result on sdsd datasets.
 ### sdsd-indoor
 <div align=center>
-<img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_low_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_gt_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_hdps_output.gif" width="300" height="150">
+<img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_low_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_hdps_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_gt_output.gif" width="300" height="150">
 </div>
 
 ### sdsd-outdoor
