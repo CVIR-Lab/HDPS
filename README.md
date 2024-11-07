@@ -15,6 +15,6 @@ The figure shows the performance on NLOS scene with reconstructing model-face in
 
 ## Performance on Low Light Image Enhancement
 Here we present some video-result on sdsd datasets.
-https://github.com/user-attachments/assets/fe5f5ee8-88c2-4daf-b657-5a7baa8c3347
-
+### sdsd-indoor
+<img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_low_output.gif" width="240" height="120"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_gt_output.gif" width="240" height="120"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_hdps_output.gif" width="240" height="120">
 We reorganized the dataset page, please see the new official dataset  [**NLOS**](https://github.com/CVIR-Lab/NLOS) of HDPS for detail.
