@@ -20,5 +20,10 @@ Here we present some video-result on sdsd datasets.
 <img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_low_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_gt_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdin_hdps_output.gif" width="300" height="150">
 </div>
 
-  
+### sdsd-outdoor
+<div align=center>
+<img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdout_low_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdout_gt_output.gif" width="300" height="150"><img src="https://github.com/CVIR-Lab/HDPS/blob/main/image/sdsdout_hdps_output.gif" width="300" height="150">
+</div>
+
+
   We reorganized the dataset page, please see the new official dataset  [**NLOS**](https://github.com/CVIR-Lab/NLOS) of HDPS for detail.
